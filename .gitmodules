@@ -1,0 +1,15 @@
+[submodule "precompute-data/vlr-part-1"]
+	path = precompute-data/vlr-part-1
+	url = git@github.com:lloydchang/vlr-part-1.git
+[submodule "precompute-data/vlr-part-2"]
+	path = precompute-data/vlr-part-2
+	url = git@github.com:lloydchang/vlr-part-2.git
+[submodule "precompute-data/vlr-part-3"]
+	path = precompute-data/vlr-part-3
+	url = git@github.com:lloydchang/vlr-part-3.git
+[submodule "precompute-data/vlr-part-4"]
+	path = precompute-data/vlr-part-4
+	url = git@github.com:lloydchang/vlr-part-4.git
+[submodule "precompute-data/vlr-part-5"]
+	path = precompute-data/vlr-part-5
+	url = git@github.com:lloydchang/vlr-part-5.git
